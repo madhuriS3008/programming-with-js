@@ -11,3 +11,7 @@ input.addEventListener("keyup", (e) => {
   console.log(e.target.value);
   h1.innerText = e.target.value;
 });
+
+var result;
+console.log(result);
+result = 7;
